@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1616898728 source:e:\c++\scrolling background\main.cpp
+	"window.h"
+	"ltexture.h"
+	"runfunction.h"
+	"collision.h"
+
+1616855987 e:\c++\scrolling background\window.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+
+1616856190 e:\c++\scrolling background\ltexture.h
+
+1616857577 e:\c++\scrolling background\runfunction.h
+
+1616855000 e:\c++\scrolling background\collision.h
+
